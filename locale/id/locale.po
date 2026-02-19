@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-02-19T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-02-19T00:00:00+00:00\n"
+"Language: id\n"
+
+msgid "plugins.generic.sanguMostViewed.displayName"
+msgstr "Sangu Most Viewed"
+
+msgid "plugins.generic.sanguMostViewed.description"
+msgstr "Menampilkan artikel yang paling banyak dilihat di sidebar."
+
+msgid "plugins.generic.sanguMostViewed.settings.description"
+msgstr "Konfigurasi pengaturan blok artikel terpopuler."
+
+msgid "plugins.generic.sanguMostViewed.settings.timePeriod"
+msgstr "Periode Waktu"
+
+msgid "plugins.generic.sanguMostViewed.settings.timePeriod.last7days"
+msgstr "7 Hari Terakhir"
+
+msgid "plugins.generic.sanguMostViewed.settings.timePeriod.last30days"
+msgstr "30 Hari Terakhir"
+
+msgid "plugins.generic.sanguMostViewed.settings.timePeriod.last1year"
+msgstr "1 Tahun Terakhir"
+
+msgid "plugins.generic.sanguMostViewed.settings.timePeriod.lifetime"
+msgstr "Sepanjang Waktu"
+
+msgid "plugins.generic.sanguMostViewed.settings.articleCount"
+msgstr "Jumlah Artikel"
+
+msgid "plugins.block.sanguMostViewed.displayName"
+msgstr "Artikel Terpopuler"
+
+msgid "plugins.block.sanguMostViewed.description"
+msgstr "Blok sidebar yang menampilkan artikel yang paling banyak dilihat."
+
+msgid "plugins.block.sanguMostViewed.title"
+msgstr "Terpopuler"
+
+msgid "plugins.block.sanguMostViewed.views"
+msgstr "dilihat"

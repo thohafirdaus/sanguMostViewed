@@ -15,7 +15,7 @@ msgid "plugins.generic.sanguMostViewed.displayName"
 msgstr "Sangu Most Viewed"
 
 msgid "plugins.generic.sanguMostViewed.description"
-msgstr "Displays the most viewed articles in the sidebar."
+msgstr "Displays the most viewed articles in the sidebar. By Sangu Ilmu"
 
 msgid "plugins.generic.sanguMostViewed.settings.description"
 msgstr "Configure the most viewed articles block settings."

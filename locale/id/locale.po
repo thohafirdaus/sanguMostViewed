@@ -42,7 +42,7 @@ msgid "plugins.block.sanguMostViewed.displayName"
 msgstr "Artikel Terpopuler"
 
 msgid "plugins.block.sanguMostViewed.description"
-msgstr "Blok sidebar yang menampilkan artikel yang paling banyak dilihat."
+msgstr "Blok sidebar yang menampilkan artikel yang paling banyak dilihat. Oleh Sangu Ilmu"
 
 msgid "plugins.block.sanguMostViewed.title"
 msgstr "Terpopuler"
